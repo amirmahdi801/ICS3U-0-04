@@ -4,7 +4,7 @@ language = input()
 if language == "1": # if the input was 1 print this message
     print ("hello my friend!")
 elif language == "2": # if the input was 2 print this message
-    print ("requescate de patche")
+    print ("Bonjour, mon ami")
 elif language == "3": # if the input was 3 print this message
     print ("Hola mi amigo")
 else: # if the input was anything else than 1, 2 and 3 show this message
